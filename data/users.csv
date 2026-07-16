@@ -1,0 +1,501 @@
+user_id,signup_date,age,gender,country,acquisition_channel,device_type,subscription_plan,marketing_opt_in,is_active
+USR0001,2026-01-01,58,Female,Turkey,App Store,iOS,Free,False,True
+USR0002,2026-01-01,52,Female,France,Referral,iOS,Free,True,True
+USR0003,2026-01-01,19,Female,France,Referral,iOS,Free,True,True
+USR0004,2026-01-01,28,Male,United Kingdom,App Store,iOS,Free,False,True
+USR0005,2026-01-01,42,Female,United Kingdom,App Store,Android,Free,False,True
+USR0006,2026-01-01,42,Female,France,App Store,Android,Free,False,True
+USR0007,2026-01-02,32,Male,Turkey,Paid Social,iOS,Free,True,True
+USR0008,2026-01-02,28,Male,United Kingdom,Paid Social,Android,Free,True,True
+USR0009,2026-01-02,58,Female,France,Paid Social,iOS,Free,True,False
+USR0010,2026-01-02,53,Female,United Kingdom,Organic Search,iOS,Premium,False,True
+USR0011,2026-01-02,22,Female,France,App Store,iOS,Free,True,False
+USR0012,2026-01-02,47,Female,United Kingdom,Paid Social,iOS,Free,True,True
+USR0013,2026-01-03,45,Male,United Kingdom,Paid Social,iOS,Free,True,True
+USR0014,2026-01-03,25,Female,Germany,Referral,iOS,Free,True,True
+USR0015,2026-01-03,34,Female,Turkey,Influencer,Android,Free,True,True
+USR0016,2026-01-03,28,Male,Turkey,App Store,iOS,Free,True,True
+USR0017,2026-01-03,58,Female,Germany,App Store,iOS,Free,False,True
+USR0018,2026-01-04,18,Male,Netherlands,Organic Search,iOS,Premium,False,True
+USR0019,2026-01-04,37,Female,Turkey,Paid Social,iOS,Free,True,True
+USR0020,2026-01-04,52,Female,Germany,Referral,iOS,Free,False,True
+USR0021,2026-01-04,31,Female,United Kingdom,Referral,Android,Free,True,True
+USR0022,2026-01-04,32,Female,United Kingdom,Organic Search,iOS,Free,True,True
+USR0023,2026-01-04,21,Female,Turkey,Organic Search,Android,Free,True,True
+USR0024,2026-01-05,31,Female,France,Influencer,Android,Free,True,True
+USR0025,2026-01-05,24,Female,Netherlands,App Store,Android,Free,False,True
+USR0026,2026-01-05,59,Female,Turkey,Referral,Android,Free,True,True
+USR0027,2026-01-05,52,Male,Germany,Referral,iOS,Free,True,False
+USR0028,2026-01-05,46,Female,Turkey,Influencer,iOS,Premium,False,True
+USR0029,2026-01-05,28,Male,Netherlands,Referral,iOS,Premium,False,True
+USR0030,2026-01-06,18,Male,United Kingdom,Referral,Android,Free,False,False
+USR0031,2026-01-06,53,Male,Germany,Paid Social,Android,Free,True,True
+USR0032,2026-01-06,21,Male,Turkey,Organic Search,Android,Free,False,True
+USR0033,2026-01-06,50,Female,Germany,Organic Search,iOS,Free,True,True
+USR0034,2026-01-06,54,Female,France,Influencer,iOS,Free,True,True
+USR0035,2026-01-07,51,Male,United Kingdom,Paid Social,Android,Free,True,True
+USR0036,2026-01-07,37,Male,United Kingdom,Organic Search,iOS,Free,False,False
+USR0037,2026-01-07,22,Female,France,App Store,iOS,Premium,False,True
+USR0038,2026-01-07,41,Male,Germany,Referral,Android,Free,False,True
+USR0039,2026-01-07,18,Male,Turkey,Paid Social,Android,Free,True,True
+USR0040,2026-01-07,35,Male,France,Paid Social,Android,Free,True,True
+USR0041,2026-01-08,49,Male,Turkey,Organic Search,Android,Premium,True,True
+USR0042,2026-01-08,26,Male,Germany,Referral,Android,Free,True,False
+USR0043,2026-01-08,27,Female,United Kingdom,Influencer,iOS,Free,True,True
+USR0044,2026-01-08,20,Male,Germany,Paid Social,iOS,Free,True,True
+USR0045,2026-01-08,57,Female,Germany,Paid Social,iOS,Premium,True,True
+USR0046,2026-01-09,39,Male,Germany,App Store,iOS,Free,True,True
+USR0047,2026-01-09,48,Female,Germany,Referral,Android,Free,False,True
+USR0048,2026-01-09,19,Female,Netherlands,App Store,Android,Premium,False,True
+USR0049,2026-01-09,59,Male,France,App Store,iOS,Free,False,True
+USR0050,2026-01-09,34,Female,Turkey,Influencer,Android,Free,False,True
+USR0051,2026-01-09,50,Female,Netherlands,Influencer,iOS,Free,False,True
+USR0052,2026-01-10,52,Female,United Kingdom,Referral,iOS,Premium,False,True
+USR0053,2026-01-10,60,Female,United Kingdom,Influencer,Android,Free,True,True
+USR0054,2026-01-10,53,Female,Germany,Referral,Android,Free,False,True
+USR0055,2026-01-10,37,Male,France,Organic Search,Android,Free,True,True
+USR0056,2026-01-10,59,Male,Netherlands,Referral,Android,Free,True,True
+USR0057,2026-01-10,28,Female,United Kingdom,Influencer,Android,Free,False,True
+USR0058,2026-01-11,37,Female,Germany,Paid Social,iOS,Free,False,True
+USR0059,2026-01-11,22,Male,Netherlands,Influencer,iOS,Free,True,True
+USR0060,2026-01-11,27,Female,Turkey,Referral,iOS,Free,False,True
+USR0061,2026-01-11,21,Female,Turkey,Referral,iOS,Free,True,False
+USR0062,2026-01-11,56,Male,Netherlands,Influencer,Android,Premium,True,True
+USR0063,2026-01-12,48,Male,United Kingdom,Paid Social,Android,Free,True,True
+USR0064,2026-01-12,35,Male,Turkey,App Store,iOS,Free,True,True
+USR0065,2026-01-12,26,Female,Germany,Referral,iOS,Free,True,True
+USR0066,2026-01-12,52,Male,Netherlands,Organic Search,iOS,Premium,True,True
+USR0067,2026-01-12,19,Male,Netherlands,Organic Search,Android,Free,True,True
+USR0068,2026-01-12,44,Female,Netherlands,Paid Social,Android,Free,True,True
+USR0069,2026-01-13,43,Female,Netherlands,Paid Social,iOS,Premium,True,True
+USR0070,2026-01-13,23,Male,Germany,Referral,iOS,Free,True,True
+USR0071,2026-01-13,38,Male,Netherlands,App Store,Android,Free,True,True
+USR0072,2026-01-13,52,Female,United Kingdom,Paid Social,iOS,Free,True,True
+USR0073,2026-01-13,33,Female,Turkey,Influencer,iOS,Free,True,True
+USR0074,2026-01-14,31,Male,United Kingdom,App Store,iOS,Free,False,True
+USR0075,2026-01-14,28,Male,Turkey,Influencer,iOS,Premium,True,False
+USR0076,2026-01-14,42,Male,Germany,Organic Search,iOS,Free,False,True
+USR0077,2026-01-14,56,Female,France,Organic Search,Android,Free,True,True
+USR0078,2026-01-14,59,Male,Turkey,Referral,Android,Free,False,True
+USR0079,2026-01-14,47,Female,Netherlands,Paid Social,Android,Free,False,True
+USR0080,2026-01-15,47,Male,France,App Store,Android,Premium,False,True
+USR0081,2026-01-15,46,Female,Netherlands,Influencer,Android,Free,True,True
+USR0082,2026-01-15,49,Female,United Kingdom,App Store,Android,Free,True,True
+USR0083,2026-01-15,53,Female,France,Paid Social,iOS,Free,True,True
+USR0084,2026-01-15,33,Male,Netherlands,Referral,iOS,Free,True,True
+USR0085,2026-01-15,37,Male,Netherlands,Influencer,Android,Free,False,True
+USR0086,2026-01-16,47,Male,United Kingdom,App Store,iOS,Free,True,True
+USR0087,2026-01-16,52,Female,Germany,Paid Social,Android,Free,True,True
+USR0088,2026-01-16,56,Male,Turkey,Paid Social,Android,Free,True,True
+USR0089,2026-01-16,52,Female,United Kingdom,Organic Search,iOS,Free,True,True
+USR0090,2026-01-16,49,Female,Turkey,Influencer,Android,Free,True,True
+USR0091,2026-01-17,21,Male,Netherlands,Organic Search,iOS,Free,True,True
+USR0092,2026-01-17,21,Female,Germany,Influencer,Android,Free,True,True
+USR0093,2026-01-17,44,Female,France,Referral,Android,Premium,True,True
+USR0094,2026-01-17,45,Male,France,Influencer,iOS,Free,False,False
+USR0095,2026-01-17,31,Female,United Kingdom,Organic Search,iOS,Free,True,True
+USR0096,2026-01-17,44,Male,France,Referral,Android,Free,True,True
+USR0097,2026-01-18,47,Female,Germany,App Store,iOS,Free,True,True
+USR0098,2026-01-18,35,Female,Turkey,Organic Search,iOS,Free,True,True
+USR0099,2026-01-18,36,Male,Turkey,Referral,Android,Free,False,True
+USR0100,2026-01-18,49,Male,Turkey,Influencer,iOS,Premium,False,True
+USR0101,2026-01-18,19,Female,Germany,Influencer,iOS,Premium,True,True
+USR0102,2026-01-19,20,Female,Netherlands,Influencer,Android,Premium,True,True
+USR0103,2026-01-19,58,Male,Turkey,Referral,Android,Free,True,True
+USR0104,2026-01-19,28,Male,Netherlands,Referral,Android,Free,True,True
+USR0105,2026-01-19,20,Male,Turkey,App Store,Android,Free,False,True
+USR0106,2026-01-19,50,Female,France,Referral,Android,Free,True,True
+USR0107,2026-01-19,49,Male,Turkey,Paid Social,Android,Free,False,True
+USR0108,2026-01-20,49,Female,Turkey,Influencer,iOS,Free,True,True
+USR0109,2026-01-20,44,Female,Germany,Organic Search,Android,Premium,True,True
+USR0110,2026-01-20,36,Male,Netherlands,Referral,Android,Free,True,True
+USR0111,2026-01-20,56,Female,Turkey,App Store,Android,Free,False,True
+USR0112,2026-01-20,18,Male,United Kingdom,Influencer,Android,Premium,True,True
+USR0113,2026-01-20,39,Male,Netherlands,App Store,iOS,Premium,True,True
+USR0114,2026-01-21,44,Female,United Kingdom,Referral,Android,Free,True,True
+USR0115,2026-01-21,27,Male,Turkey,Paid Social,Android,Premium,False,True
+USR0116,2026-01-21,51,Male,Turkey,Paid Social,Android,Premium,False,True
+USR0117,2026-01-21,34,Male,France,Referral,iOS,Premium,False,True
+USR0118,2026-01-21,42,Male,Netherlands,Influencer,iOS,Free,True,True
+USR0119,2026-01-22,36,Female,Turkey,Referral,iOS,Free,False,True
+USR0120,2026-01-22,28,Male,Turkey,Organic Search,Android,Free,True,True
+USR0121,2026-01-22,27,Female,France,Referral,iOS,Free,True,True
+USR0122,2026-01-22,57,Female,Netherlands,Influencer,iOS,Free,True,True
+USR0123,2026-01-22,60,Female,Netherlands,App Store,iOS,Free,False,False
+USR0124,2026-01-22,37,Male,United Kingdom,Referral,Android,Free,True,True
+USR0125,2026-01-23,33,Male,France,App Store,Android,Premium,True,False
+USR0126,2026-01-23,60,Male,United Kingdom,Organic Search,iOS,Premium,False,True
+USR0127,2026-01-23,36,Female,France,App Store,iOS,Free,True,True
+USR0128,2026-01-23,60,Female,Turkey,Organic Search,Android,Free,True,True
+USR0129,2026-01-23,26,Female,United Kingdom,App Store,Android,Free,True,True
+USR0130,2026-01-24,41,Male,Germany,App Store,Android,Premium,True,True
+USR0131,2026-01-24,25,Male,Turkey,Paid Social,iOS,Premium,False,False
+USR0132,2026-01-24,53,Male,Turkey,Referral,iOS,Free,True,True
+USR0133,2026-01-24,34,Male,United Kingdom,Organic Search,iOS,Free,True,False
+USR0134,2026-01-24,38,Female,Turkey,Referral,Android,Free,True,True
+USR0135,2026-01-24,20,Male,Netherlands,Organic Search,iOS,Free,True,True
+USR0136,2026-01-25,41,Male,France,Paid Social,Android,Free,False,True
+USR0137,2026-01-25,35,Female,United Kingdom,Paid Social,Android,Free,True,True
+USR0138,2026-01-25,41,Male,Turkey,Referral,Android,Free,True,True
+USR0139,2026-01-25,47,Female,Germany,Influencer,iOS,Free,True,False
+USR0140,2026-01-25,54,Female,Turkey,Influencer,iOS,Free,False,True
+USR0141,2026-01-25,27,Female,United Kingdom,Paid Social,iOS,Free,False,True
+USR0142,2026-01-26,19,Female,Turkey,App Store,iOS,Free,True,True
+USR0143,2026-01-26,26,Male,France,Organic Search,iOS,Free,False,True
+USR0144,2026-01-26,24,Male,France,Paid Social,iOS,Free,False,True
+USR0145,2026-01-26,37,Male,Turkey,Organic Search,Android,Premium,True,True
+USR0146,2026-01-26,46,Female,Turkey,App Store,iOS,Free,True,True
+USR0147,2026-01-27,53,Male,Netherlands,Influencer,Android,Free,True,True
+USR0148,2026-01-27,25,Female,Netherlands,Referral,iOS,Free,False,True
+USR0149,2026-01-27,24,Male,Netherlands,App Store,Android,Free,True,False
+USR0150,2026-01-27,22,Female,Turkey,Organic Search,Android,Free,False,True
+USR0151,2026-01-27,53,Female,France,Influencer,Android,Free,True,True
+USR0152,2026-01-27,45,Female,United Kingdom,Influencer,Android,Free,True,True
+USR0153,2026-01-28,60,Male,Germany,Organic Search,Android,Premium,True,True
+USR0154,2026-01-28,54,Female,Netherlands,Influencer,iOS,Free,True,True
+USR0155,2026-01-28,19,Female,United Kingdom,App Store,Android,Free,True,True
+USR0156,2026-01-28,60,Male,Turkey,Paid Social,iOS,Free,True,True
+USR0157,2026-01-28,47,Male,Germany,App Store,Android,Free,False,True
+USR0158,2026-01-29,23,Female,Germany,Paid Social,iOS,Free,True,True
+USR0159,2026-01-29,49,Male,Netherlands,App Store,iOS,Free,True,True
+USR0160,2026-01-29,36,Male,France,App Store,iOS,Free,False,True
+USR0161,2026-01-29,31,Male,Germany,Paid Social,Android,Free,True,True
+USR0162,2026-01-29,45,Female,Germany,Referral,iOS,Free,False,True
+USR0163,2026-01-29,22,Male,Turkey,Referral,iOS,Free,True,True
+USR0164,2026-01-30,45,Male,Netherlands,App Store,iOS,Free,False,True
+USR0165,2026-01-30,57,Male,United Kingdom,Organic Search,Android,Premium,True,True
+USR0166,2026-01-30,51,Female,Netherlands,App Store,Android,Free,False,True
+USR0167,2026-01-30,58,Female,France,Influencer,iOS,Premium,True,True
+USR0168,2026-01-30,59,Female,Germany,Organic Search,iOS,Free,True,True
+USR0169,2026-01-30,59,Female,Germany,Referral,Android,Free,False,True
+USR0170,2026-01-31,54,Male,United Kingdom,Paid Social,Android,Free,True,True
+USR0171,2026-01-31,35,Female,United Kingdom,Influencer,iOS,Free,True,True
+USR0172,2026-01-31,36,Female,Turkey,Influencer,Android,Free,True,True
+USR0173,2026-01-31,20,Male,France,Paid Social,Android,Free,True,False
+USR0174,2026-01-31,46,Female,United Kingdom,Organic Search,iOS,Free,False,False
+USR0175,2026-02-01,51,Female,United Kingdom,App Store,Android,Free,False,True
+USR0176,2026-02-01,21,Male,Turkey,App Store,iOS,Free,True,True
+USR0177,2026-02-01,60,Female,United Kingdom,Organic Search,iOS,Premium,True,True
+USR0178,2026-02-01,60,Male,Germany,Influencer,iOS,Free,True,True
+USR0179,2026-02-01,26,Female,Netherlands,Influencer,Android,Free,True,False
+USR0180,2026-02-01,39,Male,Germany,Paid Social,iOS,Free,True,True
+USR0181,2026-02-02,50,Female,United Kingdom,Influencer,iOS,Free,True,True
+USR0182,2026-02-02,57,Female,Netherlands,Organic Search,Android,Free,False,False
+USR0183,2026-02-02,57,Male,Netherlands,Paid Social,iOS,Free,False,True
+USR0184,2026-02-02,30,Male,France,Referral,Android,Free,False,True
+USR0185,2026-02-02,44,Female,Germany,Influencer,iOS,Premium,True,True
+USR0186,2026-02-02,41,Female,France,Organic Search,Android,Free,True,True
+USR0187,2026-02-03,50,Female,Netherlands,Organic Search,iOS,Free,False,False
+USR0188,2026-02-03,44,Female,Netherlands,Influencer,Android,Free,False,True
+USR0189,2026-02-03,19,Male,Turkey,App Store,iOS,Free,True,True
+USR0190,2026-02-03,26,Male,Netherlands,Influencer,iOS,Premium,True,True
+USR0191,2026-02-03,27,Male,Turkey,App Store,iOS,Free,True,True
+USR0192,2026-02-04,57,Male,Turkey,Organic Search,Android,Free,True,True
+USR0193,2026-02-04,33,Female,United Kingdom,Referral,iOS,Free,True,True
+USR0194,2026-02-04,60,Female,France,App Store,iOS,Premium,True,True
+USR0195,2026-02-04,50,Female,Netherlands,Referral,iOS,Free,False,True
+USR0196,2026-02-04,19,Male,Turkey,App Store,iOS,Free,True,True
+USR0197,2026-02-04,39,Female,Turkey,App Store,Android,Free,True,True
+USR0198,2026-02-05,47,Male,Germany,Paid Social,iOS,Free,False,True
+USR0199,2026-02-05,30,Female,Germany,Organic Search,Android,Premium,True,False
+USR0200,2026-02-05,52,Male,United Kingdom,Organic Search,iOS,Free,False,True
+USR0201,2026-02-05,59,Male,United Kingdom,Organic Search,Android,Free,True,True
+USR0202,2026-02-05,42,Male,Germany,Referral,Android,Free,False,True
+USR0203,2026-02-06,23,Male,Turkey,Referral,iOS,Free,True,True
+USR0204,2026-02-06,60,Male,United Kingdom,Referral,Android,Free,True,True
+USR0205,2026-02-06,40,Male,United Kingdom,Organic Search,iOS,Free,True,True
+USR0206,2026-02-06,28,Female,Germany,Influencer,Android,Free,True,True
+USR0207,2026-02-06,41,Male,Netherlands,Influencer,iOS,Free,True,False
+USR0208,2026-02-06,41,Male,Turkey,Influencer,iOS,Free,True,True
+USR0209,2026-02-07,33,Female,Turkey,Paid Social,Android,Free,False,True
+USR0210,2026-02-07,34,Male,Germany,Influencer,Android,Free,False,True
+USR0211,2026-02-07,26,Female,Netherlands,Paid Social,Android,Premium,False,False
+USR0212,2026-02-07,38,Male,Turkey,Influencer,Android,Premium,False,True
+USR0213,2026-02-07,58,Female,United Kingdom,Influencer,iOS,Free,True,True
+USR0214,2026-02-07,49,Female,United Kingdom,Influencer,Android,Free,False,True
+USR0215,2026-02-08,23,Female,United Kingdom,Referral,Android,Free,False,True
+USR0216,2026-02-08,22,Female,United Kingdom,Organic Search,Android,Free,True,True
+USR0217,2026-02-08,53,Female,Germany,Referral,iOS,Premium,True,True
+USR0218,2026-02-08,28,Male,Germany,App Store,Android,Premium,True,True
+USR0219,2026-02-08,53,Male,Germany,App Store,iOS,Free,True,False
+USR0220,2026-02-09,27,Female,France,Influencer,Android,Premium,True,True
+USR0221,2026-02-09,19,Female,Turkey,Influencer,Android,Free,False,True
+USR0222,2026-02-09,58,Female,Netherlands,Influencer,Android,Free,True,True
+USR0223,2026-02-09,43,Male,Netherlands,Organic Search,iOS,Free,True,True
+USR0224,2026-02-09,39,Female,United Kingdom,App Store,Android,Premium,True,True
+USR0225,2026-02-09,53,Female,United Kingdom,Paid Social,Android,Free,True,True
+USR0226,2026-02-10,21,Male,Netherlands,Influencer,Android,Free,False,True
+USR0227,2026-02-10,38,Male,Germany,Paid Social,Android,Premium,True,True
+USR0228,2026-02-10,49,Female,Turkey,Referral,Android,Premium,True,True
+USR0229,2026-02-10,21,Male,Netherlands,Influencer,Android,Free,True,True
+USR0230,2026-02-10,26,Male,United Kingdom,Referral,Android,Free,True,True
+USR0231,2026-02-11,41,Male,Turkey,Referral,Android,Free,True,False
+USR0232,2026-02-11,57,Female,Germany,Organic Search,Android,Free,False,True
+USR0233,2026-02-11,41,Female,Germany,Influencer,Android,Free,True,True
+USR0234,2026-02-11,39,Male,France,Referral,iOS,Free,True,True
+USR0235,2026-02-11,57,Male,Germany,Referral,Android,Free,True,True
+USR0236,2026-02-11,49,Male,Netherlands,Organic Search,Android,Free,True,True
+USR0237,2026-02-12,37,Female,France,Referral,Android,Premium,False,True
+USR0238,2026-02-12,54,Female,Turkey,Influencer,Android,Free,True,True
+USR0239,2026-02-12,42,Female,Germany,Organic Search,iOS,Free,True,True
+USR0240,2026-02-12,44,Female,Netherlands,Influencer,Android,Premium,False,True
+USR0241,2026-02-12,26,Female,France,App Store,Android,Free,True,True
+USR0242,2026-02-12,52,Male,France,App Store,Android,Free,True,True
+USR0243,2026-02-13,53,Male,Germany,App Store,Android,Free,True,True
+USR0244,2026-02-13,48,Male,France,App Store,Android,Free,True,True
+USR0245,2026-02-13,43,Male,Germany,App Store,iOS,Free,False,True
+USR0246,2026-02-13,46,Male,Netherlands,Paid Social,iOS,Premium,True,True
+USR0247,2026-02-13,35,Female,Turkey,Influencer,iOS,Free,True,True
+USR0248,2026-02-14,58,Female,Turkey,Organic Search,Android,Free,True,True
+USR0249,2026-02-14,26,Female,France,Paid Social,Android,Free,False,True
+USR0250,2026-02-14,59,Female,United Kingdom,App Store,Android,Free,False,True
+USR0251,2026-02-14,54,Female,France,Organic Search,iOS,Free,False,False
+USR0252,2026-02-14,20,Male,Netherlands,Paid Social,Android,Premium,True,True
+USR0253,2026-02-14,24,Male,United Kingdom,Referral,Android,Premium,True,True
+USR0254,2026-02-15,35,Female,Turkey,App Store,iOS,Free,True,True
+USR0255,2026-02-15,18,Male,United Kingdom,Influencer,iOS,Free,False,True
+USR0256,2026-02-15,45,Male,Turkey,Referral,iOS,Free,True,True
+USR0257,2026-02-15,33,Female,United Kingdom,Referral,iOS,Free,True,True
+USR0258,2026-02-15,55,Female,United Kingdom,App Store,iOS,Free,True,True
+USR0259,2026-02-16,43,Male,Turkey,App Store,Android,Free,True,True
+USR0260,2026-02-16,27,Male,France,App Store,Android,Free,False,True
+USR0261,2026-02-16,60,Female,Germany,Influencer,iOS,Free,True,True
+USR0262,2026-02-16,54,Female,Turkey,Influencer,iOS,Free,True,True
+USR0263,2026-02-16,51,Male,Turkey,Paid Social,Android,Free,True,True
+USR0264,2026-02-16,47,Female,France,Referral,Android,Free,True,True
+USR0265,2026-02-17,37,Female,Netherlands,App Store,iOS,Free,True,True
+USR0266,2026-02-17,40,Female,France,Organic Search,iOS,Premium,True,True
+USR0267,2026-02-17,29,Female,Netherlands,App Store,Android,Free,False,True
+USR0268,2026-02-17,23,Female,United Kingdom,Organic Search,iOS,Premium,True,True
+USR0269,2026-02-17,32,Female,Turkey,App Store,Android,Free,True,True
+USR0270,2026-02-17,32,Female,Netherlands,App Store,iOS,Free,False,True
+USR0271,2026-02-18,25,Female,Netherlands,Influencer,iOS,Free,True,True
+USR0272,2026-02-18,46,Female,Germany,Organic Search,Android,Free,True,True
+USR0273,2026-02-18,21,Female,France,App Store,iOS,Free,False,True
+USR0274,2026-02-18,56,Male,Germany,App Store,iOS,Premium,True,True
+USR0275,2026-02-18,35,Female,France,Influencer,iOS,Free,True,True
+USR0276,2026-02-19,40,Male,France,App Store,Android,Free,True,True
+USR0277,2026-02-19,52,Male,Germany,Paid Social,Android,Premium,True,True
+USR0278,2026-02-19,21,Male,Netherlands,Influencer,iOS,Free,True,True
+USR0279,2026-02-19,23,Male,United Kingdom,Organic Search,iOS,Free,True,True
+USR0280,2026-02-19,20,Female,Germany,Influencer,iOS,Free,False,True
+USR0281,2026-02-19,18,Female,Germany,Organic Search,Android,Premium,True,True
+USR0282,2026-02-20,43,Female,France,App Store,Android,Free,True,True
+USR0283,2026-02-20,34,Male,France,Referral,Android,Free,False,True
+USR0284,2026-02-20,38,Female,United Kingdom,App Store,Android,Free,False,True
+USR0285,2026-02-20,19,Male,France,Influencer,Android,Free,True,True
+USR0286,2026-02-20,54,Female,Netherlands,Influencer,Android,Free,False,False
+USR0287,2026-02-21,59,Male,Netherlands,Paid Social,Android,Free,False,True
+USR0288,2026-02-21,52,Female,France,Organic Search,iOS,Premium,True,True
+USR0289,2026-02-21,44,Female,Germany,Organic Search,iOS,Free,True,True
+USR0290,2026-02-21,57,Male,Netherlands,Organic Search,iOS,Free,True,True
+USR0291,2026-02-21,35,Male,Turkey,Influencer,Android,Free,False,True
+USR0292,2026-02-21,24,Female,Germany,Paid Social,Android,Free,True,True
+USR0293,2026-02-22,41,Male,Netherlands,Influencer,iOS,Premium,True,True
+USR0294,2026-02-22,23,Female,Turkey,Referral,Android,Free,True,True
+USR0295,2026-02-22,28,Female,Netherlands,Referral,Android,Free,False,True
+USR0296,2026-02-22,51,Female,Germany,Paid Social,Android,Free,False,True
+USR0297,2026-02-22,35,Female,Germany,App Store,iOS,Premium,True,True
+USR0298,2026-02-22,43,Female,United Kingdom,Paid Social,iOS,Free,False,True
+USR0299,2026-02-23,52,Male,Netherlands,Paid Social,iOS,Free,False,True
+USR0300,2026-02-23,45,Female,Turkey,App Store,Android,Premium,True,True
+USR0301,2026-02-23,46,Male,Germany,App Store,Android,Free,True,True
+USR0302,2026-02-23,23,Male,Germany,Organic Search,iOS,Free,True,True
+USR0303,2026-02-23,27,Male,United Kingdom,App Store,iOS,Free,False,True
+USR0304,2026-02-24,35,Female,Germany,Organic Search,iOS,Free,True,True
+USR0305,2026-02-24,24,Female,Turkey,App Store,iOS,Free,False,True
+USR0306,2026-02-24,18,Male,Netherlands,Referral,iOS,Free,True,False
+USR0307,2026-02-24,33,Female,Netherlands,Paid Social,iOS,Free,True,True
+USR0308,2026-02-24,28,Male,United Kingdom,Referral,Android,Free,True,True
+USR0309,2026-02-24,33,Male,France,Influencer,iOS,Free,True,True
+USR0310,2026-02-25,43,Male,France,Referral,Android,Free,True,True
+USR0311,2026-02-25,59,Female,United Kingdom,App Store,iOS,Free,True,True
+USR0312,2026-02-25,38,Male,Netherlands,Influencer,iOS,Free,True,True
+USR0313,2026-02-25,41,Female,France,Paid Social,iOS,Free,True,False
+USR0314,2026-02-25,47,Female,Netherlands,App Store,iOS,Free,False,True
+USR0315,2026-02-26,49,Female,United Kingdom,Paid Social,Android,Free,False,True
+USR0316,2026-02-26,22,Male,France,Referral,Android,Free,False,True
+USR0317,2026-02-26,44,Female,United Kingdom,Influencer,iOS,Free,True,True
+USR0318,2026-02-26,28,Female,France,Referral,Android,Premium,True,True
+USR0319,2026-02-26,34,Female,France,Influencer,iOS,Free,True,True
+USR0320,2026-02-26,55,Female,United Kingdom,Organic Search,Android,Free,True,False
+USR0321,2026-02-27,25,Female,United Kingdom,App Store,Android,Free,True,True
+USR0322,2026-02-27,48,Female,Netherlands,Referral,Android,Free,True,True
+USR0323,2026-02-27,19,Male,Turkey,Paid Social,iOS,Free,True,True
+USR0324,2026-02-27,45,Male,Germany,Referral,iOS,Free,True,True
+USR0325,2026-02-27,57,Female,Netherlands,Influencer,Android,Free,False,True
+USR0326,2026-02-27,22,Female,France,Paid Social,Android,Free,True,True
+USR0327,2026-02-28,49,Male,France,Referral,Android,Free,True,True
+USR0328,2026-02-28,57,Female,United Kingdom,Influencer,iOS,Free,True,True
+USR0329,2026-02-28,25,Female,United Kingdom,Paid Social,Android,Free,True,True
+USR0330,2026-02-28,29,Male,France,Paid Social,iOS,Free,True,True
+USR0331,2026-02-28,46,Female,United Kingdom,Organic Search,Android,Free,False,False
+USR0332,2026-03-01,50,Male,Netherlands,Referral,Android,Free,True,True
+USR0333,2026-03-01,54,Female,Germany,App Store,iOS,Free,True,True
+USR0334,2026-03-01,47,Male,France,Influencer,iOS,Free,True,True
+USR0335,2026-03-01,41,Female,Netherlands,Influencer,iOS,Premium,True,True
+USR0336,2026-03-01,33,Male,Turkey,Referral,Android,Free,False,True
+USR0337,2026-03-01,25,Female,Germany,Influencer,Android,Premium,True,True
+USR0338,2026-03-02,57,Female,Germany,Paid Social,iOS,Free,True,True
+USR0339,2026-03-02,28,Male,United Kingdom,App Store,Android,Premium,True,False
+USR0340,2026-03-02,24,Female,Netherlands,Organic Search,Android,Premium,True,True
+USR0341,2026-03-02,33,Female,United Kingdom,Paid Social,Android,Free,True,True
+USR0342,2026-03-02,44,Male,Netherlands,Organic Search,iOS,Free,False,True
+USR0343,2026-03-02,41,Male,Netherlands,App Store,iOS,Premium,False,True
+USR0344,2026-03-03,47,Male,Turkey,Influencer,Android,Free,True,True
+USR0345,2026-03-03,35,Male,United Kingdom,App Store,iOS,Free,True,True
+USR0346,2026-03-03,21,Female,Turkey,Referral,iOS,Free,False,True
+USR0347,2026-03-03,18,Male,Germany,Paid Social,Android,Free,False,True
+USR0348,2026-03-03,59,Male,United Kingdom,Organic Search,Android,Free,True,True
+USR0349,2026-03-04,58,Male,Germany,Referral,iOS,Free,True,True
+USR0350,2026-03-04,26,Female,France,Referral,iOS,Free,True,True
+USR0351,2026-03-04,45,Female,Netherlands,Organic Search,iOS,Free,False,True
+USR0352,2026-03-04,38,Male,United Kingdom,Paid Social,Android,Free,False,True
+USR0353,2026-03-04,27,Female,France,Influencer,iOS,Free,True,True
+USR0354,2026-03-04,31,Female,Netherlands,Influencer,Android,Premium,True,True
+USR0355,2026-03-05,25,Male,United Kingdom,Referral,Android,Free,True,True
+USR0356,2026-03-05,33,Male,Turkey,App Store,iOS,Free,True,True
+USR0357,2026-03-05,36,Female,Germany,Referral,Android,Free,True,True
+USR0358,2026-03-05,51,Female,United Kingdom,App Store,iOS,Free,False,True
+USR0359,2026-03-05,52,Female,Netherlands,Organic Search,iOS,Free,True,True
+USR0360,2026-03-06,21,Male,France,App Store,Android,Free,True,True
+USR0361,2026-03-06,52,Female,United Kingdom,Organic Search,Android,Free,False,False
+USR0362,2026-03-06,27,Male,Netherlands,Influencer,iOS,Free,True,False
+USR0363,2026-03-06,33,Female,Germany,Organic Search,Android,Free,True,True
+USR0364,2026-03-06,60,Female,Turkey,Organic Search,iOS,Free,True,False
+USR0365,2026-03-06,51,Male,Germany,App Store,iOS,Free,False,True
+USR0366,2026-03-07,25,Female,United Kingdom,Referral,Android,Free,True,False
+USR0367,2026-03-07,58,Female,Netherlands,Referral,Android,Free,False,True
+USR0368,2026-03-07,28,Male,Turkey,Influencer,iOS,Free,True,True
+USR0369,2026-03-07,18,Female,Turkey,Referral,Android,Free,True,False
+USR0370,2026-03-07,20,Male,Germany,App Store,iOS,Free,False,True
+USR0371,2026-03-07,22,Male,Turkey,Influencer,iOS,Free,False,False
+USR0372,2026-03-08,43,Female,Netherlands,App Store,Android,Free,True,True
+USR0373,2026-03-08,30,Male,France,App Store,iOS,Free,True,True
+USR0374,2026-03-08,30,Female,Germany,Organic Search,Android,Free,True,True
+USR0375,2026-03-08,18,Male,Turkey,Referral,Android,Free,True,True
+USR0376,2026-03-08,49,Female,Germany,App Store,iOS,Free,True,True
+USR0377,2026-03-09,44,Male,Netherlands,Organic Search,iOS,Free,True,True
+USR0378,2026-03-09,55,Female,Netherlands,Paid Social,iOS,Free,False,False
+USR0379,2026-03-09,43,Male,United Kingdom,Referral,Android,Free,False,True
+USR0380,2026-03-09,55,Female,Germany,Organic Search,iOS,Free,True,True
+USR0381,2026-03-09,40,Female,Netherlands,App Store,Android,Free,True,True
+USR0382,2026-03-09,37,Female,Germany,App Store,iOS,Free,True,True
+USR0383,2026-03-10,50,Female,United Kingdom,App Store,iOS,Free,True,True
+USR0384,2026-03-10,53,Female,Turkey,Referral,iOS,Free,True,True
+USR0385,2026-03-10,32,Female,Germany,Referral,Android,Free,False,True
+USR0386,2026-03-10,55,Male,Turkey,Organic Search,iOS,Free,True,True
+USR0387,2026-03-10,23,Male,Turkey,Organic Search,Android,Free,False,True
+USR0388,2026-03-11,43,Male,Turkey,Referral,Android,Free,True,True
+USR0389,2026-03-11,35,Male,Germany,Organic Search,iOS,Free,True,True
+USR0390,2026-03-11,48,Female,Turkey,App Store,Android,Free,True,True
+USR0391,2026-03-11,51,Female,France,Organic Search,Android,Free,True,True
+USR0392,2026-03-11,49,Male,France,Influencer,Android,Free,True,True
+USR0393,2026-03-11,32,Female,United Kingdom,Organic Search,Android,Free,False,False
+USR0394,2026-03-12,28,Female,Germany,Paid Social,Android,Free,False,True
+USR0395,2026-03-12,32,Male,United Kingdom,Paid Social,iOS,Free,True,True
+USR0396,2026-03-12,40,Female,United Kingdom,Influencer,iOS,Free,True,False
+USR0397,2026-03-12,49,Male,Germany,Referral,iOS,Free,True,True
+USR0398,2026-03-12,51,Male,Turkey,App Store,iOS,Free,True,True
+USR0399,2026-03-12,38,Female,Turkey,Paid Social,iOS,Free,False,True
+USR0400,2026-03-13,22,Male,Netherlands,Influencer,iOS,Free,True,False
+USR0401,2026-03-13,45,Male,United Kingdom,Paid Social,Android,Free,True,True
+USR0402,2026-03-13,37,Male,Germany,Paid Social,iOS,Premium,False,True
+USR0403,2026-03-13,54,Female,Germany,Influencer,Android,Premium,False,True
+USR0404,2026-03-13,54,Female,Netherlands,Paid Social,Android,Free,True,False
+USR0405,2026-03-14,28,Female,United Kingdom,Referral,iOS,Free,True,True
+USR0406,2026-03-14,34,Female,Turkey,Organic Search,Android,Free,True,True
+USR0407,2026-03-14,44,Male,Netherlands,App Store,Android,Free,True,True
+USR0408,2026-03-14,59,Female,Germany,Referral,iOS,Free,True,True
+USR0409,2026-03-14,34,Female,Turkey,App Store,iOS,Premium,True,True
+USR0410,2026-03-14,23,Male,France,Influencer,Android,Free,True,True
+USR0411,2026-03-15,56,Male,Germany,Organic Search,iOS,Free,False,True
+USR0412,2026-03-15,53,Male,United Kingdom,App Store,iOS,Free,True,True
+USR0413,2026-03-15,49,Female,Turkey,App Store,iOS,Free,True,True
+USR0414,2026-03-15,56,Male,Germany,Organic Search,iOS,Free,True,False
+USR0415,2026-03-15,48,Female,United Kingdom,Referral,Android,Free,True,True
+USR0416,2026-03-16,52,Male,Germany,App Store,Android,Free,True,True
+USR0417,2026-03-16,47,Male,Germany,App Store,iOS,Free,True,True
+USR0418,2026-03-16,60,Male,France,Referral,iOS,Free,False,True
+USR0419,2026-03-16,44,Male,France,Paid Social,Android,Free,True,True
+USR0420,2026-03-16,20,Female,Turkey,Referral,iOS,Premium,True,True
+USR0421,2026-03-16,30,Female,Turkey,Referral,iOS,Premium,True,False
+USR0422,2026-03-17,58,Female,France,App Store,Android,Premium,False,True
+USR0423,2026-03-17,42,Male,France,App Store,Android,Free,False,True
+USR0424,2026-03-17,57,Male,Turkey,Referral,iOS,Free,True,True
+USR0425,2026-03-17,24,Female,France,Organic Search,Android,Premium,False,True
+USR0426,2026-03-17,34,Male,Netherlands,Influencer,Android,Free,True,True
+USR0427,2026-03-17,56,Male,Turkey,Referral,Android,Free,True,True
+USR0428,2026-03-18,35,Male,Turkey,App Store,Android,Free,False,True
+USR0429,2026-03-18,24,Female,Germany,App Store,Android,Free,True,True
+USR0430,2026-03-18,56,Female,Germany,Referral,iOS,Premium,True,True
+USR0431,2026-03-18,51,Male,Turkey,Influencer,iOS,Free,False,True
+USR0432,2026-03-18,51,Female,Germany,Paid Social,iOS,Premium,True,True
+USR0433,2026-03-19,41,Female,United Kingdom,App Store,Android,Free,True,True
+USR0434,2026-03-19,19,Female,United Kingdom,Referral,Android,Free,False,True
+USR0435,2026-03-19,40,Male,Germany,App Store,iOS,Free,True,True
+USR0436,2026-03-19,54,Female,Germany,Paid Social,iOS,Free,True,True
+USR0437,2026-03-19,18,Male,Germany,Paid Social,iOS,Free,True,False
+USR0438,2026-03-19,59,Male,Netherlands,Referral,Android,Free,True,True
+USR0439,2026-03-20,51,Male,France,Organic Search,iOS,Free,True,True
+USR0440,2026-03-20,41,Male,United Kingdom,Organic Search,Android,Free,False,True
+USR0441,2026-03-20,35,Male,United Kingdom,Paid Social,iOS,Free,True,True
+USR0442,2026-03-20,56,Male,United Kingdom,Paid Social,iOS,Free,False,True
+USR0443,2026-03-20,44,Male,Netherlands,Organic Search,iOS,Free,False,True
+USR0444,2026-03-21,58,Male,United Kingdom,Influencer,Android,Premium,False,True
+USR0445,2026-03-21,29,Male,Turkey,Referral,iOS,Free,False,True
+USR0446,2026-03-21,29,Male,Turkey,Paid Social,Android,Free,False,True
+USR0447,2026-03-21,39,Male,United Kingdom,Influencer,Android,Free,True,True
+USR0448,2026-03-21,58,Female,Netherlands,Paid Social,iOS,Premium,True,True
+USR0449,2026-03-21,21,Female,Germany,Paid Social,Android,Free,True,False
+USR0450,2026-03-22,47,Female,United Kingdom,Paid Social,iOS,Free,True,True
+USR0451,2026-03-22,58,Female,Turkey,Referral,Android,Free,False,True
+USR0452,2026-03-22,28,Male,Turkey,Paid Social,Android,Free,True,False
+USR0453,2026-03-22,42,Female,Turkey,Influencer,iOS,Free,False,True
+USR0454,2026-03-22,51,Female,Turkey,Organic Search,iOS,Free,False,True
+USR0455,2026-03-22,24,Male,France,Influencer,Android,Free,False,True
+USR0456,2026-03-23,36,Male,France,Influencer,Android,Free,True,True
+USR0457,2026-03-23,49,Male,Germany,Paid Social,Android,Free,True,False
+USR0458,2026-03-23,31,Female,France,Influencer,iOS,Free,False,True
+USR0459,2026-03-23,42,Male,France,Influencer,iOS,Free,True,True
+USR0460,2026-03-23,19,Female,Turkey,Referral,Android,Free,True,True
+USR0461,2026-03-24,27,Female,Turkey,App Store,Android,Free,True,True
+USR0462,2026-03-24,56,Female,Netherlands,Organic Search,iOS,Free,False,True
+USR0463,2026-03-24,56,Female,United Kingdom,Influencer,iOS,Free,True,True
+USR0464,2026-03-24,53,Male,Germany,Referral,Android,Free,True,True
+USR0465,2026-03-24,25,Male,Germany,Organic Search,iOS,Free,True,True
+USR0466,2026-03-24,32,Male,United Kingdom,App Store,Android,Free,False,True
+USR0467,2026-03-25,36,Male,United Kingdom,Referral,iOS,Free,False,True
+USR0468,2026-03-25,26,Female,United Kingdom,App Store,Android,Premium,True,True
+USR0469,2026-03-25,41,Male,Germany,Organic Search,Android,Free,True,True
+USR0470,2026-03-25,48,Male,Germany,Organic Search,iOS,Free,True,False
+USR0471,2026-03-25,28,Female,Netherlands,Influencer,Android,Free,True,True
+USR0472,2026-03-26,42,Male,France,Organic Search,iOS,Free,True,True
+USR0473,2026-03-26,46,Female,Turkey,App Store,Android,Free,False,True
+USR0474,2026-03-26,54,Female,United Kingdom,Influencer,iOS,Free,False,True
+USR0475,2026-03-26,60,Male,Germany,Influencer,iOS,Free,False,True
+USR0476,2026-03-26,48,Male,Germany,Organic Search,Android,Free,True,True
+USR0477,2026-03-26,50,Female,France,Referral,Android,Free,True,True
+USR0478,2026-03-27,54,Male,Turkey,Referral,Android,Free,False,True
+USR0479,2026-03-27,19,Female,Netherlands,Referral,iOS,Free,True,True
+USR0480,2026-03-27,56,Male,France,Influencer,iOS,Free,True,True
+USR0481,2026-03-27,21,Female,Netherlands,App Store,Android,Free,True,True
+USR0482,2026-03-27,24,Female,Turkey,App Store,Android,Premium,False,True
+USR0483,2026-03-27,51,Male,Turkey,Organic Search,iOS,Free,False,True
+USR0484,2026-03-28,44,Female,United Kingdom,Influencer,iOS,Free,False,True
+USR0485,2026-03-28,47,Female,United Kingdom,Organic Search,Android,Free,True,True
+USR0486,2026-03-28,25,Male,Netherlands,Influencer,iOS,Premium,True,True
+USR0487,2026-03-28,53,Male,France,Referral,iOS,Free,True,True
+USR0488,2026-03-28,24,Male,France,Influencer,Android,Free,True,False
+USR0489,2026-03-29,33,Male,Netherlands,App Store,Android,Free,True,True
+USR0490,2026-03-29,50,Male,France,App Store,iOS,Free,True,True
+USR0491,2026-03-29,40,Female,Germany,Influencer,Android,Free,False,True
+USR0492,2026-03-29,55,Male,France,App Store,Android,Free,True,True
+USR0493,2026-03-29,27,Female,Turkey,Paid Social,Android,Free,True,True
+USR0494,2026-03-29,34,Female,Turkey,App Store,iOS,Free,True,True
+USR0495,2026-03-30,24,Female,France,Referral,iOS,Free,False,True
+USR0496,2026-03-30,60,Female,Netherlands,Referral,Android,Premium,False,True
+USR0497,2026-03-30,53,Female,Turkey,App Store,iOS,Free,False,True
+USR0498,2026-03-30,32,Male,France,Influencer,iOS,Free,False,True
+USR0499,2026-03-30,29,Female,Germany,Paid Social,iOS,Free,True,True
+USR0500,2026-03-31,26,Female,France,App Store,iOS,Free,False,True
